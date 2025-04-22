@@ -1,6 +1,6 @@
 [Project]
-FileName=exerc11.dev
-Name=exerc11
+FileName=exerc12.5.c
+Name=exerc13
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=exerc11.c
+FileName=exerc13.c
 CompileCpp=0
 Folder=
 Compile=1
